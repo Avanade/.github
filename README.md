@@ -1,0 +1,2 @@
+# .github
+Avanade default files
