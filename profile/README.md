@@ -1,4 +1,4 @@
-[Avanade](https://www.avanade.com) is the leading provider of innovative digital and cloud services, business solutions and design-led experiences on the Microsoft ecosystem, and the power behind the Accenture Microsoft Business Group.
+[Avanade](https://www.avanade.com) is the leading provider of innovative digital, cloud and advisory services, industry solutions and design-led experiences across the Microsoft ecosystem. Every day, our 56,000 professionals in 26 countries make a genuine human impact for our clients, their employees and their customers.​ Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation. Learn more at www.avanade.com
 
 - 😊 [Code of conduct](https://avanade.github.io/code-of-conduct/) - how we foster a healthy community (we adopt the Contributor Covenant)
 - 🔐 [Responsible disclosure policy](https://www.avanade.com/en/about-avanade/approach/trust-center/responsible-disclosure) - a way to identify and report potential security vulnerabilities
